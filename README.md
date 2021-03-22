@@ -1,1 +1,5 @@
 # Matplotlib-challenge
+
+This project analyzed a study in which mice were given specific drugs to treat tumors. Mice were separated into test groups and their results were compared between groups. This included tumor volume, the number of mice who survived the study, and change in weight of the mice by the end of the study. Summary statstics were calcluated for each group and compared.
+
+Mice treated with Ceftamin have a more broad distribution of final tumor volumes than other groups tested. This drug may be more effective than the others used in the study. Within the Capomulin group of mice there does not seem to be any correlation between the weight of the mouse and the volume of the tumor at the end of the study. A final point is that it is most interesting that most of these drugs don't have the intended effects. The mean of tumor volume of the placebo was less than all other groups used in the study. Not a good sign for any of the drugs!
